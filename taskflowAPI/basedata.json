@@ -1,5 +1,24 @@
-
 {
-    "users":[],
-    "tasks":[]
+  "users": [
+    {
+      "date": 1779901786151,
+      "name": "samuel ",
+      "lastname": "Roncancio",
+      "email": "samuel@gmail.com",
+      "password": "1234",
+      "role": "USER",
+      "id": "lwKLoJoEjSI"
+    },
+    {
+      "date": 1779901896998,
+      "name": "juan",
+      "lastname": "perez",
+      "email": "samue@gmail.com",
+      "password": "123",
+      "role": "ADMIN",
+      "id": "xWGqXpjttZs"
+    }
+  ],
+  "tasks": [],
+  "$schema": "./node_modules/json-server/schema.json"
 }
